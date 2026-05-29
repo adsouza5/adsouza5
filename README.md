@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://adsouza5.github.io/portfolio-react">Portfolio</a> ·
+  <a href="https://www.iadamdsouza.com">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/adamdsouza">LinkedIn</a> ·
   New York, NY
 </p>
